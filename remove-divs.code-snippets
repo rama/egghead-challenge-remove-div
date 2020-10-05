@@ -1,0 +1,9 @@
+{
+    "Remove divs": {
+        "prefix": "<div",
+        "body": [
+            "<"
+        ],
+        "description": "Use semantic HTML"
+    }
+}
